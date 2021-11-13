@@ -1,0 +1,8 @@
+{% macro render_input_radio_button(block, idfield) %}
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="{{ idfield }}" id="{{ block.idoption }}" value="{{ block.idoption }}" {% if block.checked %} checked {% endif %}>
+  <label class="form-check-label" for="{{ block.idoption }}">
+      {{ block.descricao }} 
+  </label>
+</div>
+{% endmacro %}

@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="cards-container">
+    {% for block in this.cards.blocks %}
+        {{ block }}   
+    {% endfor %}
+</div>
+<hr>
+<h3>Detalhes</h3>
+<div class="accordion" id="accordionExample">
+    {% for block in this.informacoes.blocks %}
+        {{ block }}   
+    {% endfor %}
+</div>
+{% endblock %}

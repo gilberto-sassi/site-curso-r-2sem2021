@@ -1,0 +1,16 @@
+_model: equipe
+---
+pessoas:
+
+#### membros ####
+image: carol.jpeg
+----
+descricao: <strong>Carolina Costa Mota Paraíba</strong> fez doutorado sanduíche na Universidade de Edimburgo (Escócia) e pós-doutorado na Universidade Federal do Espírito Santo. Já trabalhou com Estatística Aplicada no Lanagro/SP e no Instituto Jones dos Santos Neves (Espírito Santo). Atua principalmente nos seguintes temas: análise de regressão, inferência Bayesiana, diagnóstico de modelos, estatística computacional e estatística aplicada.
+----
+alt: 
+#### membros ####
+image: foto-site.jpeg
+----
+descricao: <strong>Gilberto Pereira Sassi</strong> é professor do Departamento de Estatística do Instituto de Matemática e Estatística da Universidade Federal da Bahia. Bacharel em Matemática com mestrado pelo Programa de Pósgraduação em Ciência da Computação e Matemática Computacional do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo e tem doutorado pelo Programa de Pós-graduação em Estatística do Instituto de Matemática e Estatística da Universidade de São Paulo. Já trabalhou com ciência de dados em empresas como Bradesco, Itaú e FIPE. Tem interesse em métodos estatísticos, análise de dados funcionais e teoria de resposta ao item.
+----
+alt: 

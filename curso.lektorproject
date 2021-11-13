@@ -1,0 +1,11 @@
+[project]
+name = "Curso de R"
+locale = 'pt_BR'
+output_path = "build"
+
+[packages]
+lektor-netlify = 0.3
+
+[servers.production]
+name = Production
+target = netlify://cursos-ufba.netlify.app

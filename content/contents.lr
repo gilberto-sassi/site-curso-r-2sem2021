@@ -1,0 +1,112 @@
+_model: aprenda-r
+---
+title:
+
+Curso livre de R
+
+---
+cards:
+
+#### cards ####
+image: gratuito.png
+----
+alt: Imagem destacando que o curso livre de R será gratuito.
+----
+title: gratuito
+----
+cardbody: sem custos
+#### cards ####
+image: online-learning.png
+----
+alt: Imagem destacando que curso livre de R será on-line.
+----
+title: on-line
+----
+cardbody: aprenda de casa
+#### cards ####
+image: certified.png
+----
+alt: Imagem ilustrando que o curso terá cerificado emitido pela Universidade Federal da Bahia (UFBA).
+----
+title: Certificado
+----
+cardbody: certificado da UFBA
+---
+informacoes:
+
+#### informacoes ####
+title: Programa
+----
+id: programa
+----
+infobody:
+
+Neste curso, aprenderemos os seguintes tópicos:
+
+* Linguagem `R`
+* IDE's para linguagem `R`
+* Leitura de arquivos `.xlsx`, `.csv` e `.txt`
+* Tabelas de distribuição de frequência usando o pacote `dplyr`
+* Visualização de dados usando `ggplot2`
+* Medidas de resumo usando o pacote `dplyr`
+
+O curso acontecerá entre os dias 06 de novembro e 20 de novembro. Este curso terá atividades síncronas (atividades por vídeo-chamada com a presença da equipe técnica) que acontecerão no dia 06 de novembro das 08h00min até 12h30min e no dia 13 de novembro das 08h0min até 12h30min.
+#### informacoes ####
+title: Plataformas
+----
+id: plataforma
+----
+infobody:
+
+O curso livre de `R` usará as seguintes plataformas:
+
+* usaremos _google classroom_ para atividades assíncronas (atividades _off-line_)
+* usaremos  [jitsi](https://meet.jit.si/) para atividades síncronas (atividades _on-line_)
+#### informacoes ####
+title: Requisitos
+----
+id: requisito
+----
+infobody: Para participar deste curso você vai precisar de um computador (de mesa ou portátil), e acesso à internet. Além disso, é recomendável conhecimentos básicos de informática.
+#### informacoes ####
+title: Número de vagas
+----
+id: vagas
+----
+infobody:
+
+Este curso é gratuito e oferece 40 vagas.
+
+Caso o número de inscritos seja maior que o número de vagas, distribuiremos estas 40 vagas por sorteio.
+#### informacoes ####
+title: Metodologia
+----
+id: metodologia
+----
+infobody:
+
+O  Curso livre de `R` será ministrado entre os dias 06 de novembro e 20 de novembro, e terá atividades assíncronas e síncronas. 
+
+##### Atividades assíncronas
+
+Atividades assíncronas são tarefas realizadas sem o acompanhamento dos mediadores e professores (Gilberto e Carolina). Mais especificamente, usaremos o recurso _questionário_ do _google classroom_, onde você vai responder algumas questões de múltipla escolha para te ajudar no seu processo de aprendizagem.
+
+##### Atividades síncronas
+
+Atividades síncronas são ações realizadas com o acompanhamento dos mediadores e professores (Gilberto e Carolina). Mais precisamente, usaremos a plataforma [jitsi](https://meet.jit.si/) para realizar _live coding_ onde você vai interagir com os professores para aprender **ciência de dados** usando `R`. Sempre terá um(a) docente acompanhando o _chat_ e organizando as intervenções dos participantes (com microfone), enquanto outro(a) docente ficará com o IDE aberto codificando _ao vivo_. Estas sessões de _live coding_ acontecerão nos dias 06 de novembro e 13 de novembro das 08h00min até 12h30min.
+#### informacoes ####
+title: Resumo
+----
+id: resumo
+----
+infobody: O conhecimento da ciência estatística e suas metodologias, bem como ferramentas para manipulação e análise de dados, é uma habilidade muito importante nas mais diversas diferentes áreas do conhecimento. Este curso se propõe a ensinar a linguagem `R`, que é a linguagem mais usada para ciência de dados. A popularidade da linguagem `R` é impulsionada pelas atualizações e melhorias recorrentes, pela grande comunidade de usuários que adicionam novas funcionalidades diariamente  à linguagem através de pacotes e pela sua sintaxe simples. Neste curso, o foco será explicar conceitos de estatística descritiva em um contexto prático, onde usaremos o _framework_ `tidyverse`, principalmente os pacotes `dplyr` e `ggplot2`. Como resultado deste curso, esperamos que os(as) participantes demonstrem um domínio relevante dos conceitos de estatística descritiva e nível básico da linguagem `R`. O curso consistirá em atividades assíncronas usando a plataforma _google classroom_ e atividades síncronas usando a plataforma [jitsi](https://meet.jit.si/) onde usaremos exemplos reais para ilustrar o emprego da linguagem `R`. Este curso tem aproximadamente 10 horas de atividades, sendo oito horas de atividade síncronas e duas horas de atividades assíncronas, será gratuito com certificado emitido pela **Universidade Federal da Bahia**, e terá 40 vagas. O curso livre de `R` será ministrado entre os dias 06 de novembro e 20 de novembro, onde as atividades síncronas transcorrerão nos dias 06 de novembro e 13 de novembro no período  das 08h00min até 12h30min.
+#### informacoes ####
+title: Público alvo
+----
+id: publico
+----
+infobody:
+
+Para acompanhar este curso é ncessário que você tenha conhecimentos básicos de informática como instalações de _softwares_ e navegação no sistema de arquivos do seus sistema operacional. 
+
+Este curso está no nível básico, e tem objetivo apresentar a linguagem `R` e explicar conceitos de estatística descritiva. Se você já trabalha com _ciência de dados_ ou já trabalha com a linguagem `R`, talvez esse curso não seja para você. 

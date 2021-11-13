@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+<form action="https://formsubmit.co/curso.extensao.ufba@gmail.com" method="POST">
+    {% for block in this.campos.blocks %}
+      {{ block }}
+    {% endfor %}
+    {# <button id="submit" type="submit" class="btn btn-primary"><i class="fas fa-paper-plane"></i> Submeter</button> #}
+</form>
+{% endblock %}

@@ -1,0 +1,27 @@
+title: Instalação do R e de IDE's
+---
+author: Gilberto Sassi e Carolina Paraíba
+---
+body:
+
+# Instalação do `R` e de IDE's
+
+Na próxima aula, vamos usar o `R` localmente, e você precisa instalar uma IDE (editor de texto com capacidades adicionais para facilitar a programação em linguagem `R`) para acompanhar a aula. Neste curso, a IDE vamos utilizar é o `RStudio`.
+
+Caso você não queira ou não possa realizar instalações, você pode continuar usando o [google colaboratory](https://colab.to/r) ou o [rstudio.cloud](https://rstudio.cloud).
+
+
+## Instalação do `R`
+
+Para instalar o `R` em sua máquina, siga as instruções em [cran.r-project.org](https://cran.r-project.org).
+
+## Instalação de `IDE`
+
+Estamos sugerindo que você use o `RStudio`, mas sinta-se a vontade para usar qualquer IDE de sua escolha e que seja adequada para a linguagem `R` ~~não use o _bloco de notas_, mas pode usar se quiser~~.
+
+### `RStudio`
+
+Depois de ter instalado o `R`, siga as instruções de instalação em [www.rstudio.com](https://www.rstudio.com/products/rstudio/download/#download).
+
+---
+pub_date: 2021-11-13
