@@ -12,6 +12,12 @@ texto:
 * [Parte 1 (.pdf)](parte-1.pdf)
 * [Parte 1 (.html)](parte-1.html)
 
+##### Segundo dia: Introdução a Estatística Descritiva e Inferência Estatística
+
+* [Parte 2 (.pdf)](parte-2.pdf)
+* [Parte 2 (.html)](parte-2.html)
+
+
 ##### Conjunto de dados
 
 * [`carros.txt`](carros.txt)
@@ -19,3 +25,4 @@ texto:
 * [`iris.xlsx`](iris.xlsx)
 * [`mtcars.csv`](mtcars.csv)
 * [`toothgrowth.ods`](toothgrowth.ods)
+* [`amostras.xlsx`](amostras.xlsx)
